@@ -64,3 +64,37 @@ li {
   /* height: 150px; */
   background-color: rgb(243, 242, 242);
 }
+
+.piece2 {
+  /* border: 1px solid black; */
+}
+
+.article1 {
+  width: 300px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+h3 {
+  margin-top: 10px;
+}
+
+.word {
+  margin-top: -10px;
+}
+
+.img {
+  background-color: rgb(62, 68, 66);
+  width: 300px;
+  margin-left: -12px;
+  margin-top: -10px;
+}
+
+.item-image {
+  opacity: 0.8;
+  margin-left: 55px;
+  margin-top: 5px;
+}
