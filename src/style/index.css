@@ -35,10 +35,12 @@ li {
 }
 
 .footer {
-  font-size: 8px;
+  font-size: 12px;
   text-align: center;
   background-color: rgb(243, 242, 242);
   margin-top: 70px;
+  padding: 10px;
+  height: 70px;
 }
 
 .piece {
