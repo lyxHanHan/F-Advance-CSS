@@ -43,7 +43,6 @@ li {
   height: 70px;
   position: absolute;
   width: 100%;
-  height: 80px;
 }
 
 .piece {
@@ -145,6 +144,7 @@ h3 {
   padding: 10px;
   height: 160px;
   background-color: rgb(242, 242, 243);
+  align-content: center;
 }
 
 .view {
