@@ -41,6 +41,9 @@ li {
   margin-top: 140px;
   padding: 10px;
   height: 70px;
+  position: absolute;
+  width: 100%;
+  height: 80px;
 }
 
 .piece {
@@ -51,7 +54,6 @@ li {
 
 .about {
   width: 200px;
-  /* margin-left: 40px; */
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 10px;
@@ -61,17 +63,14 @@ li {
 
 .archives {
   width: 200px;
-  /* margin-left: 40px; */
   margin-top: 10px;
   margin-bottom: 20px;
   padding: 10px;
-  /* height: 150px; */
   background-color: rgb(243, 242, 242);
 }
 
 .article1 {
   width: 300px;
-  /* margin-left: 40px; */
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 10px;
@@ -102,7 +101,6 @@ h3 {
 
 .article3 {
   width: 300px;
-  /* margin-left: 40px; */
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 10px;
@@ -112,7 +110,6 @@ h3 {
 
 .article2 {
   width: 300px;
-  /* margin-left: 40px; */
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 10px;
@@ -143,7 +140,6 @@ h3 {
 
 .piece4 {
   width: 200px;
-  /* margin-left: 40px; */
   margin-top: 165px;
   margin-bottom: 20px;
   padding: 10px;
