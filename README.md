@@ -53,3 +53,5 @@ npm run format
 ## NOTE
 
 Your committed code will be automatically format and check lint when submit
+
+---
